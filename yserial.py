@@ -136,7 +136,7 @@ if __name__=="__main__":
         sys.stderr.write("Command not found...\n")
         sys.exit(-1)
     except OSError:
-        sys.stderr.write("Can't access Yamaha serial port... maybe busy.\n")
+        sys.stderr.write("Can't access Yamaha serial port... may be busy.\n")
         sys.exit(-1)
 
     print(response)
