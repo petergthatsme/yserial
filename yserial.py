@@ -13,6 +13,8 @@ import sys
 import time
 import re
 
+#NOTE: this is an incomplete list of commands gathered from various sources online. 
+#mostly stuff that i need
 commands={"input cd":"07A15"
 ,"power on":"07E7E"
 ,"power off":"07E7F"
