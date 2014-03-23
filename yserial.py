@@ -2,7 +2,6 @@
 
 #A prgram that allows for serial communication with a yamaha rx-v1900. 
 #
-#
 
 #need to make sure /deb/ttyUSB0 is has write permissions. 
 #easiest to add user to dialup group:
